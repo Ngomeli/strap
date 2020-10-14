@@ -20,6 +20,13 @@ h3 {
     font-weight: bold;
 }
 
+h2 {
+    font-family: "Monsterrat";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 p {
     color: #8f8f8f;
 }
@@ -89,4 +96,14 @@ p {
 
 .icon:hover {
     color: #ff4c68;
+}
+
+
+/* Testimonials section */
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
 }
